@@ -1,2 +1,4 @@
 # crave-website
-pulled from http://mycrave.org/
+Found at craveproject.com
+
+Thank you to the original developers of mycrave.org.
