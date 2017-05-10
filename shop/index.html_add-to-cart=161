@@ -1,0 +1,419 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en-US" itemscope="itemscope" itemtype="http://schema.org/WebPage">
+
+<!-- head -->
+<head>
+
+<!-- meta -->
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<title itemprop="name">Products | CRAVE | safest and most secure cryptocurrency</title>
+
+<meta name="description" content="Just another WordPress site" />
+
+<link rel="shortcut icon" href="../wp-content/uploads/2017/04/logo.png" type="image/x-icon" />	
+
+<!-- wp_head() -->
+<script>
+//<![CDATA[
+window.mfn_ajax = "http://www.craveproject.com/wp-admin/admin-ajax.php";
+window.mfn_nicescroll = 40;
+window.mfn_prettyphoto = {style:"pp_default", width:0, height:0};
+window.mfn_sliders = {blog:0, clients:0, offer:0, portfolio:0, shop:0, slider:0, testimonials:0};
+window.mfn_retina_disable = 0;
+//]]>
+</script>
+<link rel="alternate" type="application/rss+xml" title="CRAVE | safest and most secure cryptocurrency &raquo; Feed" href="../feed/index.xml" />
+<link rel="alternate" type="application/rss+xml" title="CRAVE | safest and most secure cryptocurrency &raquo; Comments Feed" href="../comments/feed/index.xml" />
+<link rel="alternate" type="application/rss+xml" title="CRAVE | safest and most secure cryptocurrency &raquo; Products Feed" href="feed/index.xml" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.craveproject.com\/wp-includes\/js\/wp-emoji-release.min.js.4"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText_(d.textBaseline="top",d.font="600 32px Arial","flag"===a_(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener_(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji_e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='layerslider-css'  href='../wp-content/plugins/LayerSlider/static/css/layerslider.css' type='text/css' media='all' />
+<link rel='stylesheet' id='ls-google-fonts-css'  href='http://fonts.googleapis.com/css_family=Lato:100,300,regular,700,900%7COpen+Sans:300%7CIndie+Flower:regular%7COswald:300,regular,700&#038;subset=latin' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='../wp-content/plugins/contact-form-7/includes/css/styles.css' type='text/css' media='all' />
+<link rel='stylesheet' id='tp_twitter_plugin_css-css'  href='../wp-content/plugins/recent-tweets-widget/tp_twitter_plugin.css' type='text/css' media='screen' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='../wp-content/plugins/revslider/rs-plugin/css/settings.css' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+.tp-caption a{color:#ff7302;text-shadow:none;-webkit-transition:all 0.2s ease-out;-moz-transition:all 0.2s ease-out;-o-transition:all 0.2s ease-out;-ms-transition:all 0.2s ease-out}.tp-caption a:hover{color:#ffa902}
+</style>
+<link rel='stylesheet' id='woocommerce-layout-css'  href='../wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css'  href='../wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css'  href='../wp-content/plugins/woocommerce/assets/css/woocommerce.css' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css'  href='../wp-content/themes/betheme/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mfn-base-css'  href='../wp-content/themes/betheme/css/base.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mfn-btn-css'  href='../wp-content/themes/betheme/css/buttons.css' type='text/css' media='all' />
+<link rel="stylesheet" id="mfn-icons-css" href="../wp-content/themes/fontawesome/css/font-awesome.min.css">
+<link rel='stylesheet' id='mfn-grid-css'  href='../wp-content/themes/betheme/css/grid.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mfn-layout-css'  href='../wp-content/themes/betheme/css/layout.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mfn-shortcodes-css'  href='../wp-content/themes/betheme/css/shortcodes.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mfn-variables-css'  href='../wp-content/themes/betheme/css/variables.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mfn-style-simple-css'  href='../wp-content/themes/betheme/css/style-simple.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mfn-animations-css'  href='../wp-content/themes/betheme/js/animations/animations.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mfn-colorpicker-css'  href='../wp-content/themes/betheme/js/colorpicker/css/colorpicker.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mfn-jquery-ui-css'  href='../wp-content/themes/betheme/css/ui/jquery.ui.all.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mfn-jplayer-css'  href='../wp-content/themes/betheme/css/jplayer/jplayer.blue.monday.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mfn-prettyPhoto-css'  href='../wp-content/themes/betheme/css/prettyPhoto.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mfn-responsive-1240-css'  href='../wp-content/themes/betheme/css/responsive-1240.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mfn-responsive-css'  href='../wp-content/themes/betheme/css/responsive.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mfn-style-colors-php-css'  href='../wp-content/themes/betheme/style-colors.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mfn-style-php-css'  href='../wp-content/themes/betheme/styling.css' type='text/css' media='all' />
+<link rel='stylesheet' id='Source+Sans+Pro-css'  href='http://fonts.googleapis.com/css_family=Source+Sans+Pro%3A400%2C500%2C700&#038; type='text/css' media='all' />
+<link rel='stylesheet' id='Lato-css'  href='http://fonts.googleapis.com/css_family=Lato%3A400%2C500%2C700&#038;' type='text/css' media='all' />
+<link rel='stylesheet' id='Patua+One-css'  href='http://fonts.googleapis.com/css_family=Patua+One&#038;' type='text/css' media='all' />
+<link rel='stylesheet' id='mfn-custom-css'  href='../wp-content/themes/betheme/css/custom.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mfn-woo-css'  href='../wp-content/themes/betheme/css/woocommerce.css' type='text/css' media='all' />
+<script type='text/javascript' src='../wp-includes/js/jquery/jquery.js'></script>
+<script type='text/javascript' src='../wp-includes/js/jquery/jquery-migrate.min.js'></script>
+<script type='text/javascript' src='../wp-content/plugins/LayerSlider/static/js/layerslider.kreaturamedia.jquery.js'></script>
+<script type='text/javascript' src='../wp-content/plugins/LayerSlider/static/js/greensock.js'></script>
+<script type='text/javascript' src='../wp-content/plugins/LayerSlider/static/js/layerslider.transitions.js'></script>
+<script type='text/javascript' src='../wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.tools.min.js'></script>
+<script type='text/javascript' src='../wp-content/plugins/revslider/rs-plugin/js/jquery.themepunch.revolution.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","i18n_view_cart":"View Cart","cart_url":"http:\/\/www.craveproject.com\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='../wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js'></script>
+<script type='text/javascript' src='../wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-cart.js'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc.php_rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.2.4" />
+<meta name="generator" content="WooCommerce 2.3.11" />
+		<script type="text/javascript">
+			jQuery(document).ready(function() {
+				// CUSTOM AJAX CONTENT LOADING FUNCTION
+				var ajaxRevslider = function(obj) {
+				
+					// obj.type : Post Type
+					// obj.id : ID of Content to Load
+					// obj.aspectratio : The Aspect Ratio of the Container / Media
+					// obj.selector : The Container Selector where the Content of Ajax will be injected. It is done via the Essential Grid on Return of Content
+					
+					var content = "";
+
+					data = {};
+					
+					data.action = 'revslider_ajax_call_front';
+					data.client_action = 'get_slider_html';
+					data.token = '0dd896f120';
+					data.type = obj.type;
+					data.id = obj.id;
+					data.aspectratio = obj.aspectratio;
+					
+					// SYNC AJAX REQUEST
+					jQuery.ajax({
+						type:"post",
+						url:"http://www.craveproject.com/wp-admin/admin-ajax.php",
+						dataType: 'json',
+						data:data,
+						async:false,
+						success: function(ret, textStatus, XMLHttpRequest) {
+							if(ret.success == true)
+								content = ret.data;								
+						},
+						error: function(e) {
+							console.log(e);
+						}
+					});
+					
+					 // FIRST RETURN THE CONTENT WHEN IT IS LOADED !!
+					 return content;						 
+				};
+				
+				// CUSTOM AJAX FUNCTION TO REMOVE THE SLIDER
+				var ajaxRemoveRevslider = function(obj) {
+					return jQuery(obj.selector+" .rev_slider").revkill();
+				};
+
+				// EXTEND THE AJAX CONTENT LOADING TYPES WITH TYPE AND FUNCTION
+				var extendessential = setInterval(function() {
+					if (jQuery.fn.tpessential != undefined) {
+						clearInterval(extendessential);
+						if(typeof(jQuery.fn.tpessential.defaults) !== 'undefined') {
+							jQuery.fn.tpessential.defaults.ajaxTypes.push({type:"revslider",func:ajaxRevslider,killfunc:ajaxRemoveRevslider,openAnimationSpeed:0.3});   
+							// type:  Name of the Post to load via Ajax into the Essential Grid Ajax Container
+							// func: the Function Name which is Called once the Item with the Post Type has been clicked
+							// killfunc: function to kill in case the Ajax Window going to be removed (before Remove function !
+							// openAnimationSpeed: how quick the Ajax Content window should be animated (default is 0.3)
+						}
+					}
+				},30);
+			});
+		</script>
+		<link rel="alternate" type="application/rss+xml"  title="New products" href="feed/index.xml" /><style>
+h2, h3 { font-weight: 700; }
+h2, h3, h4 { letter-spacing: 3px; }
+
+.section-border-top { border-top: 2px solid #d90007; }
+.icon_box .desc_wrapper h4 { font-size: 20px; }
+
+html { background-color: #000000; }
+
+body { padding: 0 0 25px; }
+
+/* Top bar */
+#Top_bar { background: url(../wp-content/themes/betheme/images/top_bar_right_shadow.png) repeat-x left bottom; }
+@media only screen and (min-width: 768px) {
+#Top_bar { padding-bottom: 20px; }
+}
+@media only screen and (max-width: 767px) {
+	body:not(.template-slider):not(.header-simple) #Header {
+		background-position: center 202px;
+		min-height: 180px;
+	}
+}
+
+/* Subheader */
+#Subheader { border-bottom: 2px solid #d90007; padding: 0 0 100px; }
+#Subheader .title { font-weight: 700; letter-spacing: 3px; }
+
+/* Footer */
+#Footer .footer_copy { display: none; }
+
+/* Section Gallery */
+#gallery ul.list_check li, #gallery li.list_check { background: url(../wp-content/themes/betheme/images/icons/list_check.png) no-repeat 20px 5px; }
+#gallery  ul.list_check li:after {  background: rgba(255,255,255,.08); }
+#gallery  .image_frame {
+    border-color: rgba(255, 255, 255, 0.02);
+}
+
+/* Forms */
+input[type="text"], input[type="tel"], input[type="password"], input[type="email"], textarea, select, .woocommerce .quantity input.qty { background-color: #f2f2f2; }
+
+input[type="submit"] { color: #000; background-color: transparent; background-image: none; border: 1px solid #000; box-shadow: 0 0 0 0 rgba(0, 0, 0, 0); font-size: 110%; padding: 9px 15px; border-radius: 0; }
+
+/* Error 404 */
+#Error_404 .error_desk h2, #Error_404 .error_desk h4, #Error_404 .error_desk p { color: #fff; }
+#Error_404 .error_desk p .check { color: rgba(255, 255, 255, 0.5); }
+</style>
+
+<!--[if lt IE 9]>
+<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
+<!--[if IE 8]><link rel="stylesheet" type="text/css" href="http://www.craveproject.com/wp-content/plugins/js_composer/assets/css/vc-ie8.css" media="screen"><![endif]--><noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
+
+<!-- body -->
+<body class="archive post-type-archive post-type-archive-product woocommerce woocommerce-page  color-custom style-default layout-boxed nice-scroll-on header-transparent sticky-white subheader-title-right menuo-right wpb-js-composer js-comp-ver-4.5.1 vc_responsive">
+
+	<!-- mfn_hook_top --><!-- mfn_hook_top -->	
+		
+		
+	<!-- #Wrapper -->
+	<div id="Wrapper">
+	
+				
+				
+		<!-- #Header_bg -->
+		<div id="Header_wrapper" >
+	
+			<!-- #Header -->
+			<header id="Header">
+				
+
+
+<!-- .header_placeholder 4sticky  -->
+<div class="header_placeholder"></div>
+
+<div id="Top_bar">
+
+	<div class="container">
+		<div class="column one">
+		
+			<div class="top_bar_left clearfix loading">
+			
+				<!-- .logo -->
+				<div class="logo">
+					<span id="logo">CRAVE | safest and most secure cryptocurrency</span>				</div>
+			
+				<div class="menu_wrapper">
+					<nav id="menu" class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-71" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="../index.html"><span>HOME</span></a></li>
+<li id="menu-item-145" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="../about/index.html"><span>ABOUT</span></a></li>
+<li id="menu-item-143" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="../downloads/index.html"><span>DOWNLOADS</span></a></li>
+<li id="menu-item-144" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="../spend-crave/index.html"><span>USE CRAVE</span></a></li>
+<li id="menu-item-142" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="../news/index.html"><span>NEWS</span></a></li>
+<li id="menu-item-117" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="http://www.cravetalk.org"><span>COMMUNITY</span></a></li>
+</ul></nav><a class="responsive-menu-toggle " href="index.html_add-to-cart=161#"><i class="fa fa-bars"></i></a>					
+				</div>			
+				
+				<div class="secondary_menu_wrapper">
+					<!-- #secondary-menu -->
+									</div>
+				
+				<div class="banner_wrapper">
+									</div>
+				
+				<div class="search_wrapper">
+					<!-- #searchform -->
+										<form method="get" id="searchform" action="../index.html">
+												<i class="icon_search fa fa-search"></i>
+						<a href="index.html_add-to-cart=161#" class="icon_close"><i class="fa fa-remove"></i></a>
+						<input type="text" class="field" name="s" id="s" placeholder="Enter your search" />			
+						<input type="submit" class="submit" value="" style="display:none;" />
+					</form>
+				</div>				
+				
+			</div>
+			
+			<div class="top_bar_right"><div class="top_bar_right_wrapper"><a id="header_cart" href="../cart/index.html"><i class="fa fa-shopping-basket"></i><span>1</span></a></div></div>			
+		</div>
+	</div>
+</div>	
+							</header>
+			
+			<div id="Subheader"><div class="container"><div class="column one"><h1 class="title">Shop</h1></div></div></div>			
+		</div>
+		
+		<!-- mfn_hook_content_before --><!-- mfn_hook_content_before -->
+		<!-- #Content -->
+	<div id="Content">
+		<div class="content_wrapper clearfix">
+	
+			<!-- .sections_group -->
+			<div class="sections_group">
+				<div class="section">
+					<div class="section_wrapper clearfix">
+						<div class="items_group clearfix">
+							<div class="column one woocommerce-content">
+	
+		
+		
+					
+			<div class="shop-filters">
+				
+	<div class="alert alert_success">
+		<div class="alert_icon"><i class="fa fa-check"></i></div>
+		<div class="alert_wrapper"><a href="../cart/index.html" class="button wc-forward">View Cart</a> &quot;Shop Item&quot; was successfully added to your cart.</div>
+		<a class="close" href="index.html_add-to-cart=161#"><i class="fa fa-remove"></i></a>
+	</div>
+<p class="woocommerce-result-count">
+	Showing the single result</p>			</div>
+
+			
+<div class="products_wrapper isotope_wrapper">
+	<ul class="products grid">
+				
+				
+					<li class="isotope-item post-161 product type-product status-publish has-post-thumbnail virtual shipping-taxable purchasable product-type-simple instock">
+	
+		
+	<div class="image_frame scale-with-grid product-loop-thumb" ontouchstart="this.classList.toggle('hover');"><div class="image_wrapper"><a href="../product/shop-item/index.html"><div class="mask"></div><img width="300" height="225" src="../wp-content/uploads/2015/01/icmm.png" class="scale-with-grid wp-post-image" alt="icmm" /></a><div class="image_links"><a href="index.html_add-to-cart=161" rel="nofollow" data-product_id="161" class="add_to_cart_button product_type_simple"><i class="fa fa-shopping-basket"></i></a><a class="link" href="../product/shop-item/index.html"><i class="fa fa-link"></i></a></div></div><a href="../product/shop-item/index.html"><span class="product-loading-icon added-cart"></span></a></div>
+	<div class="desc">
+
+		<h4><a href="../product/shop-item/index.html">Shop Item</a></h4>
+		
+		
+
+	<span class="price"><span class="amount">$0.00</span></span>
+		
+	</div>
+	
+	
+</li>
+				
+			
+	</ul>
+</div>
+			
+		
+								</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+			<!-- .four-columns - sidebar -->
+							
+		</div>
+	</div>
+	
+	
+
+<!-- mfn_hook_content_after --><!-- mfn_hook_content_after -->
+<!-- #Footer -->		
+<footer id="Footer" class="clearfix">
+	
+	
+	<div class="widgets_wrapper">
+		<div class="container">
+			<div class="column one">
+				<aside id="text-2" class="widget widget_text">			
+					<div class="textwidget">
+						<p class="big" style="text-align: center; margin: 5px 0 0;">
+<a href="https://cryptobe.com/chain/Crave">CRAVE Block Explorer</a> | <a href="http://www.twitter.com/craveproject">Twitter</a> | <a href="mailto:help.crave@gmail.com">Contact Us</a>
+						<br />&copy; 2017 CRAVE Community. All Rights Reserved.<br />Donate to site development: BxDuD7fEWE3g8BhnUc7YKEzDHL5ViggYES (CRAVE) &nbsp; | &nbsp; 18dexhxHy9rwikGLJbM8kc8zfmHbBHSfz3 (BTC) <br />Donate to coin development: Bx3X5LSJwCYW7waZQExzgHhDC4ZdCku47p (CRAVE) &nbsp; | &nbsp; 1GjeqWFLc4TBDg3bwdQk9ZWnEoNPCT9t6G (BTC)</p></div>		</aside></div></div></div>	
+		<div class="footer_copy">
+		<div class="container">
+			<div class="column one">
+				
+								<a id="back_to_top" class="button button_left button_js " href="index.html"><span class="button_icon"><i class="fa fa-chevron-up"></i></span></a>
+				
+				<!-- Copyrights -->
+				<div class="copyright">
+					&copy; 2017 CRAVE | safest and most secure cryptocurrency. All Rights Reserved.				</div>
+				
+				<ul class="social"><li class="twitter"><a  href="http://www.twitter.com/craveproject" title="Twitter"><i class="fa fa-twitter"></i></a></li></ul>						
+			</div>
+		</div>
+	</div>
+		
+</footer>
+
+</div><!-- #Wrapper -->
+
+
+<!-- mfn_hook_bottom --><!-- mfn_hook_bottom -->	
+<!-- wp_footer() -->
+<script type='text/javascript' src='../wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/www.craveproject.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='../wp-content/plugins/contact-form-7/includes/js/scripts.js'></script>
+<script type='text/javascript' src='../wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='../wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js'></script>
+<script type='text/javascript' src='../wp-content/plugins/woocommerce/assets/js/jquery-cookie/jquery.cookie.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","fragment_name":"wc_fragments"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='../wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js'></script>
+<script type='text/javascript' src='../wp-includes/js/jquery/ui/core.min.js'></script>
+<script type='text/javascript' src='../wp-includes/js/jquery/ui/widget.min.js'></script>
+<script type='text/javascript' src='../wp-includes/js/jquery/ui/mouse.min.js'></script>
+<script type='text/javascript' src='../wp-includes/js/jquery/ui/sortable.min.js'></script>
+<script type='text/javascript' src='../wp-includes/js/jquery/ui/tabs.min.js'></script>
+<script type='text/javascript' src='../wp-includes/js/jquery/ui/accordion.min.js'></script>
+<script type='text/javascript' src='../wp-content/themes/betheme/js/animations/animations.min.js'></script>
+<script type='text/javascript' src='../wp-content/themes/betheme/js/jquery.jplayer.min.js'></script>
+<script type='text/javascript' src='../wp-content/themes/betheme/js/colorpicker/js/colorpicker.js'></script>
+<script type='text/javascript' src='../wp-content/themes/betheme/js/jquery.plugins.js'></script>
+<script type='text/javascript' src='../wp-content/themes/betheme/js/mfn.menu.js'></script>
+<script type='text/javascript' src='../wp-content/themes/betheme/js/scripts.js'></script>
+
+</body>
+</html>
