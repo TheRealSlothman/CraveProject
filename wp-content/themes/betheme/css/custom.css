@@ -31,7 +31,12 @@ padding: 15px;
 	font-weight: bold;
 }
 
-.larger
+.mastcolumn
 {
-	font-size: 20 !important;
+	margin: 0 1% 40px;
+    margin-top: 0px;
+    margin-right: 1%;
+    margin-bottom: 10px;
+    margin-left: 1%;
+
 }
