@@ -23,5 +23,15 @@ padding: 15px;
 .textcont
 {
 	text-align: left;
-	padding-left: 10%
+	padding-left: 10%;
+}
+
+.bold
+{
+	font-weight: bold;
+}
+
+.larger
+{
+	font-size: 20 !important;
 }
